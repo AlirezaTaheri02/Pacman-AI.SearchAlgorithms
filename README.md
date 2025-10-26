@@ -1,8 +1,8 @@
-# Pacman Search Algorithms
+# 👾 Pacman Search Algorithms
 
 This repository contains my implementation of classical search algorithms for the **Pacman AI Project**, developed as part of my *Artificial Intelligence course (Fall 2024)*.
 
-## 🚀 Overview
+##  Overview
 Implemented algorithms:
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
@@ -29,7 +29,7 @@ Place the image files in the repository folder `assets/` and ensure the filename
 
 ### Inline images with captions
 
-### Depth-First Search (DFS)
+### 🔍 Depth-First Search (DFS)
 Explores the deepest available path first.
 
 <figure>
@@ -44,7 +44,7 @@ Explores the deepest available path first.
 
 ---
 
-### Breadth-First Search (BFS)
+### 🕸️ Breadth-First Search (BFS)
 Finds the shortest path (in number of steps) by exploring neighbors level-by-level.
 
 <figure>
@@ -54,7 +54,7 @@ Finds the shortest path (in number of steps) by exploring neighbors level-by-lev
 
 ---
 
-### Uniform Cost Search (UCS)
+### 💰 Uniform Cost Search (UCS)
 Chooses the lowest cumulative-cost node to expand first — useful for weighted mazes.
 
 <figure>
@@ -72,7 +72,7 @@ Chooses the lowest cumulative-cost node to expand first — useful for weighted 
 
 
 
-## 🧠 How to Run
+## ⚙️ How to Run
 ```bash
 python3 run_all.py
 
